@@ -18,12 +18,13 @@ Legacy   - Contains all the exploits that are tested and confirmed failure, or t
 -----------------------------------
 
 Usage of Status:-
+(In README.md's for individual exploits)
 
 Status :- |Linux/Linux-droid/Android|Untested/Half-Success/Failure|Reviewed/Unreviewed|
 
 -----------------------------------
 
-List of Explois:-
+List of Exploits:-
 (WIP)
 
 -----------------------------------
