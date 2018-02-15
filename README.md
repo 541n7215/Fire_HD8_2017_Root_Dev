@@ -1,9 +1,12 @@
 # Root Fire HD 8 (2017) 
 
 I made this repository to keep track of all the exploits that may or may not be used to root our device, Fire HD 8 (2017), a.k.a. DOUGLAS.
+
 -----------------------------------
+
 If you didn't know about the XDA forum thread about this, please look here;
 https://forum.xda-developers.com/hd8-hd10/general/discussion-root-progress-fire-hd-8-t3743024/
+
 -----------------------------------
 
 Usage of Folders :-
