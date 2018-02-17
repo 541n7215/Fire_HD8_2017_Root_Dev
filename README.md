@@ -12,19 +12,23 @@ https://forum.xda-developers.com/hd8-hd10/general/discussion-root-progress-fire-
 Usage of Folders :-
 
 Active   - Contains all the exploits that are under active development.
+
 Inactive - Contains all the exploits that are not currently under development, and may or may not be moved to "Active".
+
 Legacy   - Contains all the exploits that are tested and confirmed failure, or those too obsolete to be exploited.
 
 -----------------------------------
 
 Usage of Status:-
-(In README.md's for individual exploits)
+
+(In EXPLOITDATA.md's for individual exploits)
 
 Status :- |Linux/Linux-droid/Android|Untested/Half-Success/Failure|Reviewed/Unreviewed|
 
 -----------------------------------
 
 List of Exploits:-
+
 (WIP)
 
 -----------------------------------
