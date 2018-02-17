@@ -1,1 +1,1 @@
-Exploits that are not currently under development are here.
+Exploits that are not currently under active development are here.
